@@ -40,7 +40,7 @@ Built entirely in Excel using **Power Query**, **Pivot Tables**, and advanced fo
 *User selects product, inputs price, and sees instant comparison to CPI benchmark.*
 
 ### 📊 Dashboard View
-<img src="dashboard.png" alt="Dashboard View" width="500"/>  
+<img src="dashboard_view.png" alt="Dashboard" width="500"/>  
 *Dynamic trend dashboard visualising average CPI price movements over 12 months.*
 
 ---
