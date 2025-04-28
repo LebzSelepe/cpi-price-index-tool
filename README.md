@@ -30,18 +30,24 @@ Built entirely in Excel using **Power Query**, **Pivot Tables**, and advanced fo
 ---
 
 ## 📈 Screenshots
-![User Interface](screenshots/user_interface.png)
+### 📝 Cover Sheet
+![Cover Sheet](cover_sheet.png)  
+*Overview, instructions, and data source details for using the CPI Price Index Tool.*
+
+### 💡 Price Comparison Tool
+![Price Comparison Tool](price_comparison.png)  
 *User selects product, inputs price, and sees instant comparison to CPI benchmark.*
 
-![Dashboard](screenshots/dashboard.png)
+### 📊 Dashboard View
+![Dashboard](dashboard_view.png)  
 *Dynamic trend dashboard reflecting average CPI price movements over 12 months.*
 
 ---
 
 ## 💡 Business Impact
-This tool was developed in response to a real-world business case, addressing the need for quick, reliable access to commodity pricing insights. It reduces manual workload, enhances pricing transparency, and supports smarter supplier negotiations.
+This tool was developed to address a real-world procurement challenge: enabling quick, reliable access to commodity pricing insights using CPI data. It reduces manual workload, enhances pricing transparency, and supports smarter supplier negotiations.
 
-Presented as part of a technical assessment, receiving strong feedback for clarity, usability, and business relevance.
+The solution emphasizes clarity, usability, and practical business relevance, empowering teams to make data-driven pricing decisions efficiently.
 
 ---
 
@@ -56,4 +62,4 @@ For updated CPI data, simply refresh via Power Query.
 ---
 
 ## 📂 Note
-The dataset is based on publicly available CPI data from StatsSA. Sensitive company-specific logic has been excluded for confidentiality.
+The dataset is based on publicly available CPI data from StatsSA.
