@@ -1,11 +1,11 @@
 
 # CPI Price Index Tool 📊
 
-A dynamic **Excel-based Price Comparison & Trend Dashboard** designed to help businesses benchmark supplier quotes against market prices using South Africa's Consumer Price Index (CPI) data.
+A dynamic **Excel-based Price Comparison & Trend Dashboard** designed to help businesses **assess supplier pricing fairness** by benchmarking quotes against South Africa's Consumer Price Index (CPI) data, while visualising commodity price trends.
 
 ---
 
-## 🚀 Overview
+## Overview
 This tool empowers procurement and finance teams to:
 - Instantly compare supplier price quotes to the latest CPI averages
 - Track commodity price trends over the past 12 months
@@ -18,9 +18,9 @@ Built entirely in Excel using **Power Query**, **Pivot Tables**, and advanced fo
 ## ⚡ Key Features
 - **Automated Data Transformation**: CPI data cleaned & structured via Power Query for easy updates
 - **Multi-Criteria Lookup**: Compare prices based on Product, Unit, and Province selections
-- **Interactive Dashboard**: Visualize monthly price trends with dynamic, auto-scaling charts
+- **Interactive Dashboard**: Visualise monthly price trends with dynamic, auto-scaling charts
 - **User Input Interface**: Dropdown selections, conditional formatting, and clear price difference outputs
-- **No Macros**: Fully compatible across corporate environments
+- **No Macros Required**: Ensures smooth functionality across organisational environments without security restrictions
 
 ---
 
@@ -29,33 +29,37 @@ Built entirely in Excel using **Power Query**, **Pivot Tables**, and advanced fo
 
 ---
 
-## 📈 Screenshots
-### 📝 Cover Sheet
-![Cover Sheet](cover_sheet.png)  
+## 🖼️ Screenshots
+
+### 📄 Cover Sheet
+<img src="cover_sheet.png" alt="Cover Sheet" width="500"/>  
 *Overview, instructions, and data source details for using the CPI Price Index Tool.*
 
-### 💡 Price Comparison Tool
-![Price Comparison Tool](price_comparison.png)  
+### 🎛️ Price Comparison Tool
+<img src="price_comparison.png" alt="Price Comparison Tool" width="500"/>  
 *User selects product, inputs price, and sees instant comparison to CPI benchmark.*
 
 ### 📊 Dashboard View
-![Dashboard](dashboard_view.png)  
-*Dynamic trend dashboard reflecting average CPI price movements over 12 months.*
+<img src="dashboard.png" alt="Dashboard View" width="500"/>  
+*Dynamic trend dashboard visualising average CPI price movements over 12 months.*
 
 ---
 
 ## 💡 Business Impact
 This tool was developed to address a real-world procurement challenge: enabling quick, reliable access to commodity pricing insights using CPI data. It reduces manual workload, enhances pricing transparency, and supports smarter supplier negotiations.
 
-The solution emphasizes clarity, usability, and practical business relevance, empowering teams to make data-driven pricing decisions efficiently.
+This solution demonstrates how Excel can be leveraged beyond basic spreadsheets — transforming public data into actionable insights that drive smarter commercial decisions.
 
 ---
 
-## 🔗 How to Use
+## 📝 How to Use
+
+**Designed For:** Procurement, Finance, and Operations teams needing fast, data-driven supplier price evaluations.
+
 1. Select Product, Unit, and Province from dropdowns
 2. Enter your supplier's quoted price
 3. Instantly view how your quote compares to market benchmarks
-4. Explore price trends in the dashboard
+4. Explore price trends in the `Dashboard` sheet
 
 For updated CPI data, simply refresh via Power Query.
 
